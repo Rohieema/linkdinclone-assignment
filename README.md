@@ -1,0 +1,2 @@
+# linkdinclone assignment
+ static linkdin
